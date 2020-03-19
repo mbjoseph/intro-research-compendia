@@ -3,3 +3,5 @@ dependencies:
   - pandas
   - matplotlib
   - python=3.8
+  - make
+  - pandoc
