@@ -9,6 +9,22 @@ To run this compendium, you'll need:
 1. Conda (I recommend [miniconda](https://docs.conda.io/en/latest/miniconda.html), but [Anaconda](https://docs.anaconda.com/anaconda/install/) would also work)
 2. LaTeX (e.g., `texlive-full`)
 
+### Binder instructions
+
+If you don't want to install this locally, you can run this whole compendium
+in your web browser via Binder (click the icon below):
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mbjoseph/intro-research-compendia/master)
+
+This will open a Jupyter notebook server in your web browser. 
+To access a terminal, click the "New" button in the upper right, and select
+"Terminal" from the drop-down menu. 
+Then, `cd` into the `example_compendium/` directory:
+
+```bash
+cd example_compendium
+```
+
 ## Quickstart
 
 ### Create and activate the conda environment
