@@ -4,7 +4,10 @@ This example compendium illustrates a simple organizational structure for a proj
 
 ## Prerequisites
 
-To run this compendium, you'll need to have conda installed. I recommend [miniconda](https://docs.conda.io/en/latest/miniconda.html), but [Anaconda](https://docs.anaconda.com/anaconda/install/) would also work.
+To run this compendium, you'll need:
+
+1. Conda (I recommend [miniconda](https://docs.conda.io/en/latest/miniconda.html), but [Anaconda](https://docs.anaconda.com/anaconda/install/) would also work)
+2. LaTeX (e.g., `texlive-full`)
 
 ## Quickstart
 
