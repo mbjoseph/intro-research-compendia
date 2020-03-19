@@ -1,0 +1,5 @@
+name: denvertraffic
+dependencies:
+  - pandas
+  - matplotlib
+  - python=3.8

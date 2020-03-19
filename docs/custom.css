@@ -1,0 +1,30 @@
+@import url(https://fonts.googleapis.com/css?family=Inter:400,400i,700);
+
+body {
+    font-family: 'Inter', Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    font-family: 'Inter', Helvetica, Arial, sans-serif;
+    font-weight: 600;
+}
+
+h2, h3 {
+    font-family: 'Inter', Helvetica, Arial, sans-serif;
+    font-weight: 300;
+}
+
+.remark-slide-content {
+    font-size: 30px;
+    padding: 1em 4em 1em 4em;
+}
+
+.footnote {
+    font-size: 25px;
+    color: grey;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    padding: 1em 4em 1em 4em;
+    width: 85%;
+}
