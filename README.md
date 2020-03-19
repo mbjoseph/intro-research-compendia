@@ -2,6 +2,8 @@
 
 Dr. Max Joseph[![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-7745-9990)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3717288.svg)](https://doi.org/10.5281/zenodo.3717288)
+
 ## What's in here:
 
 ### `docs/`
