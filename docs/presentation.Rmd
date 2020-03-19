@@ -577,7 +577,8 @@ compendium/
 
 ## SEE IT IN ACTION
 
-TODO: GitHub link here
+
+GitHub: [mbjoseph/intro-research-compendia](https://github.com/mbjoseph/intro-research-compendia)
 
 ---
 
@@ -597,3 +598,5 @@ class: center, middle
 Slides created via the R package [**xaringan**](https://github.com/yihui/xaringan).
 
 The chakra comes from [remark.js](https://remarkjs.com), [**knitr**](http://yihui.org/knitr), and [R Markdown](https://rmarkdown.rstudio.com).
+
+Work funded by the NSF HDR program. 
