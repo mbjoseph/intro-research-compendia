@@ -35,9 +35,8 @@ options(htmltools.dir.version = FALSE)
 
 .center[![:scale 50%](https://github.com/alan-turing-institute/the-turing-way/raw/eda2fbba5bcb7c654ed32a0d8d13ab87d5fb6d7c/book/content/figures/ResearchCompendium.jpg)]
 
-???
 
-Image credit: [The Turing Way](https://github.com/alan-turing-institute/the-turing-way/raw/eda2fbba5bcb7c654ed32a0d8d13ab87d5fb6d7c/book/content/figures/ResearchCompendium.jpg)
+.footnote[Image credit: [The Turing Way](https://github.com/alan-turing-institute/the-turing-way/raw/eda2fbba5bcb7c654ed32a0d8d13ab87d5fb6d7c/book/content/figures/ResearchCompendium.jpg)]
 
 
 ---
@@ -48,9 +47,8 @@ Image credit: [The Turing Way](https://github.com/alan-turing-institute/the-turi
 
 .center[![:scale 26%](https://imgs.xkcd.com/comics/future_self.png)]
 
-???
 
-Image credit: [xkcd](https://xkcd.com/1421/)
+.footnote[Image credit: [xkcd](https://xkcd.com/1421/)]
 
 ---
 
@@ -296,6 +294,8 @@ compendium/
 
 .center[![:scale 80%](https://imgs.xkcd.com/comics/python_environment.png)]
 
+.footnote[Image credit: [xkcd](https://xkcd.com/1987/)]
+
 ---
 
 ## ENVIRONMENT SPECIFICATION
@@ -450,8 +450,8 @@ A `Makefile` specifies
 ```bash
 # target: prerequisites
 #   recipe
-data.csv: 01-get_data.csv
-  python 01-get_data.csv
+data.csv: 01-get_data.py
+  python 01-get_data.py
 ```
 
 
@@ -463,8 +463,8 @@ data.csv: 01-get_data.csv
 ```bash
 # target: prerequisites
 #   recipe
-data.csv: 01-get_data.csv
-  python 01-get_data.csv
+data.csv: 01-get_data.py
+  python 01-get_data.py
 
 clean_data.csv: data.csv 02-clean_data.py
   python 02-clean_data.py
@@ -478,8 +478,8 @@ clean_data.csv: data.csv 02-clean_data.py
 ```bash
 # target: prerequisites
 #   recipe
-data.csv: 01-get_data.csv
-  python 01-get_data.csv
+data.csv: 01-get_data.py
+  python 01-get_data.py
 
 clean_data.csv: data.csv 02-clean_data.py
   python 02-clean_data.py
