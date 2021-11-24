@@ -4,6 +4,8 @@ Dr. Max Joseph[![](https://orcid.org/sites/default/files/images/orcid_16x16.png)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3717288.svg)](https://doi.org/10.5281/zenodo.3717288)
 
+Recording of the talk: https://youtu.be/g-W6fEv7Pck
+
 ## What's in here:
 
 ### `docs/`
