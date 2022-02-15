@@ -3,6 +3,7 @@ texlive-latex-recommended
 texlive-science
 texlive-latex-extra
 texlive-fonts-recommended
+texlive-generic-extra
 dvipng
 ghostscript
 lmodern
