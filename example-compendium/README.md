@@ -22,7 +22,7 @@ To access a terminal, click the "New" button in the upper right, and select
 Then, `cd` into the `example_compendium/` directory:
 
 ```bash
-cd example_compendium
+cd example-compendium
 ```
 
 ## Quickstart
